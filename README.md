@@ -7,3 +7,5 @@ By scroling down you can see my submissions. While clickin on a submission it wi
 
 
 For ex: https://www.hackerrank.com/challenges/crush/forum The sollution of this problem is inside DataStructure/Array
+
+Or all the codes description will take you to the regarding problem.
