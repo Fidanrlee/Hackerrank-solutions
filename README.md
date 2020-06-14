@@ -3,7 +3,7 @@
 # Hackerrank-solutions
 
 This repository contains all my solutions to the problems in Hackerrank.
-[My solutions](https://www.hackerrank.com/submissions/grouped)
+
 
 # Algorithm 
 
