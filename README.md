@@ -10,5 +10,5 @@ This repository contains all my solutions to the problems in Hackerrank.
 Bit Manupulation
 
 Problem 
-([Counter Game](https://www.hackerrank.com/challenges/counter-game/problem)) ([My_solution](Hackerrank-solutions/Algorithms/BitManipulation/))
+([Counter Game](https://www.hackerrank.com/challenges/counter-game/problem)) ([My_solution](Algorithms/BitManipulation/CounterGame.cpp))
 
