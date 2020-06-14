@@ -5,3 +5,10 @@
 This repository contains all my solutions to the problems in Hackerrank.
 [My solutions](https://www.hackerrank.com/submissions/grouped)
 
+# Algorithm 
+
+Bit Manupulation
+
+Problem 
+([Counter Game](https://www.hackerrank.com/challenges/counter-game/problem)) ([My_solution](Hackerrank-solutions/Algorithms/BitManipulation/))
+
