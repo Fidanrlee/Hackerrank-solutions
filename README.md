@@ -1,9 +1,7 @@
+<p align="center"><a href="https://www.hackerrank.com/fidan_rle"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+
 # Hackerrank-solutions
 
 This repository contains all my solutions to the problems in Hackerrank.
+[My solutions](https://www.hackerrank.com/submissions/grouped)
 
-This is my Hackerrank account.  https://www.hackerrank.com/fidan_rle?hr_r=1
-By scroling down you can see my submissions. While clickin on a submission it will take you through to the given problem. And come back to find my solution. 
-
-
-For ex: https://www.hackerrank.com/challenges/crush/forum The sollution of this problem is inside DataStructure/Array
