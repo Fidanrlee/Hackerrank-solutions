@@ -11,4 +11,6 @@ Bit Manupulation
 
 Problem 
 ([Counter Game](https://www.hackerrank.com/challenges/counter-game/problem)) ([My_solution](Algorithms/BitManipulation/CounterGame.cpp))
+([Counter Game]() ([My_solution](Algorithms/BitManipulation/LonelyInteger.cpp))
+([Counter Game]() ([My_solution](Algorithms/BitManipulation/MaximizingXOR.cpp))
 
