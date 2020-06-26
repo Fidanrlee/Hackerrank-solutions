@@ -151,10 +151,28 @@ This repository contains all my solutions to the problems in Hackerrank.
 ([WeightedUniformStrings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) ([My_solution](Algorithms/String/WeightedUniformStrings.cpp))
 
 
+# C++
+
+# Classes
+
+
+([AbstractClasses-Oolymorphism.cpp](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) ([My_solution](C++/Classes/AbstractClasses-Oolymorphism.cpp))
+
+([BoxIt.cpp](https://www.hackerrank.com/challenges/box-it/problem) ([My_solution](C++/Classes/BoxIt.cpp))
+
+([Class.cpp](https://www.hackerrank.com/challenges/c-tutorial-class) ([My_solution](C++/Classes/Class.cpp))
+
+([ClassessAndObjects.cpp](https://www.hackerrank.com/challenges/classes-objects/problem) ([My_solution](C++/Classes/ClassessAndObjects.cpp))
+
+([ExceptionalServer.cpp](https://www.hackerrank.com/challenges/exceptional-server/problem) ([My_solution](C++/Classes/ExceptionalServer.cpp))
+
+([InheritedCode.cpp](https://www.hackerrank.com/challenges/inherited-code/problem) ([My_solution](C++/Classes/InheritedCode.cpp))
+
+([Structs.cpp](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) ([My_solution](C++/Classes/Structs.cpp))
+
+([VirtualFunction.cpp](https://www.hackerrank.com/challenges/virtual-functions/problem) ([My_solution](C++/Classes/VirtualFunction.cpp))
+
+
 
 
 ([]() ([My_solution]())
-
-
-
-
